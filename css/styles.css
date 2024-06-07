@@ -654,6 +654,10 @@ ol {
   fill: #4d5ae5;
 }
 
+.modal-textarea {
+  margin-bottom: 16px;
+}
+
 .modal-text {
   width: 360px;
   height: 120px;
